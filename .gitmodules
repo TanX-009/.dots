@@ -1,0 +1,30 @@
+[submodule ".config/wlogout"]
+	path = .config/wlogout
+	url = git@github.com:TanX-009/wlogout.git
+[submodule ".config/foot"]
+	path = .config/foot
+	url = git@github.com:TanX-009/foot.git
+[submodule ".config/swaync"]
+	path = .config/swaync
+	url = git@github.com:TanX-009/swaync.git
+[submodule ".config/fish"]
+	path = .config/fish
+	url = git@github.com:TanX-009/fish.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:TanX-009/nvim.git
+[submodule ".config/rofi"]
+	path = .config/rofi
+	url = git@github.com:TanX-009/rofi.git
+[submodule ".config/waybar"]
+	path = .config/waybar
+	url = git@github.com:TanX-009/waybar.git
+[submodule ".config/hypr"]
+	path = .config/hypr
+	url = git@github.com:TanX-009/hypr.git
+[submodule ".scripts"]
+	path = .scripts
+	url = git@github.com:TanX-009/.scripts.git
+[submodule ".colors"]
+	path = .colors
+	url = git@github.com:TanX-009/.colors.git
