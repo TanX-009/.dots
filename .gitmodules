@@ -28,3 +28,6 @@
 [submodule ".colors"]
 	path = .colors
 	url = https://github.com/TanX-009/.colors
+[submodule "userconf"]
+	path = userconf
+	url = https://github.com/TanX-009/userconf
