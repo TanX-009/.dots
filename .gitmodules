@@ -31,3 +31,6 @@
 [submodule "userconf"]
 	path = userconf
 	url = https://github.com/TanX-009/userconf
+[submodule "themeconf"]
+	path = themeconf
+	url = https://github.com/TanX-009/themeconf
