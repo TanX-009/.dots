@@ -34,3 +34,6 @@
 [submodule "themeconf"]
 	path = themeconf
 	url = https://github.com/TanX-009/themeconf
+[submodule ".config/ags"]
+	path = .config/ags
+	url = https://github.com/TanX-009/ags
