@@ -22,6 +22,9 @@
 [submodule ".config/hypr"]
 	path = .config/hypr
 	url = https://github.com/TanX-009/hypr
+[submodule "hyprlock"]
+	path = hyprlock
+	url = https://github.com/TanX-009/hyprlock
 [submodule ".scripts"]
 	path = .scripts
 	url = https://github.com/TanX-009/.scripts
@@ -37,3 +40,6 @@
 [submodule ".config/ags"]
 	path = .config/ags
 	url = https://github.com/TanX-009/ags
+[submodule ".config/tmux"]
+	path = .config/tmux
+	url = https://github.com/TanX-009/tmux
