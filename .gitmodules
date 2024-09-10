@@ -43,3 +43,6 @@
 [submodule ".config/tmux"]
 	path = .config/tmux
 	url = https://github.com/TanX-009/tmux
+[submodule ".wallpapers"]
+	path = .wallpapers
+	url = https://github.com/TanX-009/.wallpapers
