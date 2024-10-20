@@ -4,7 +4,7 @@
 [submodule ".config/foot"]
 	path = .config/foot
 	url = https://github.com/TanX-009/foot
-[submodule ".config/foot"]
+[submodule ".config/kitty"]
 	path = .config/kitty
 	url = https://github.com/TanX-009/kitty
 [submodule ".config/swaync"]
