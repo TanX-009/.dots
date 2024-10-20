@@ -1,3 +1,6 @@
+[submodule "manual"]
+	path = manual
+	url = https://github.com/TanX-009/manual
 [submodule ".config/wlogout"]
 	path = .config/wlogout
 	url = https://github.com/TanX-009/wlogout
