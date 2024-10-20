@@ -2,6 +2,7 @@ userconf
 themeconf
 hyprlock
 manual
+loadreload
 
 \.git
 \.gitignore
