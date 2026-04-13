@@ -1,0 +1,8 @@
+[Unit]
+Description=20-20-20 rule
+
+[Timer]
+OnCalendar=*:0,20,40:00
+
+[Install]
+WantedBy=timers.target

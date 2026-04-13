@@ -1,0 +1,5 @@
+[Unit]
+Description=20-20-20 rule notifier
+
+[Service]
+ExecStart=/usr/bin/bash -c "/usr/bin/notify-send -u critical --hint int:transient:1 '20-20-20 rule' 'Take a break!' -i mail-mark-junk ; /usr/bin/paplay %h/.local/share/sounds/ting.mp3"
